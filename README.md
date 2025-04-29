@@ -46,7 +46,7 @@
 
 Пример интерфейса **Streamlit**:
 
-<p align="center"> <img src="https://postimg.cc/gallery/F0nHPQt" alt="confusion_matrix" width="600"/> </p>
+<p align="center"> <img src="https://postimg.cc/f3tnhzWW" alt="confusion_matrix" width="600"/> <img src="https://postimg.cc/Ny3hs3L6" alt="confusion_matrix" width="600"/> </p>
 
 ---
 
