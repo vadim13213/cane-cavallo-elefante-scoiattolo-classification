@@ -55,8 +55,8 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/vadim13213/neural_networks.git
-cd neural_networks
+git clone https://github.com/vadim13213/cane-cavallo-elefante-scoiattolo-classification.git
+cd cane-cavallo-elefante-scoiattolo-classification
 ```
 
 2. **Создайте виртуальное окружение и активируйте его:**
