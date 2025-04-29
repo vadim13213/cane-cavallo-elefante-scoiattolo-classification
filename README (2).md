@@ -64,7 +64,7 @@ cd cane-cavallo-elefante-scoiattolo-classification
 ```bash
 python -m venv .venv
 source .venv/bin/activate     # Linux/macOS
-.venv\Scripts\ctivate        # Windows
+.venv\Scripts\activate        # Windows
 ```
 
 3. **Установите зависимости:**
